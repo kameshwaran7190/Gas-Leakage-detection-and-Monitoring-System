@@ -1,4 +1,4 @@
-# Gas-Leakage-detection-and-Monitoring-System
+
 Internet of Things aim towards making life simpler by automating every small task around us.
 As much is IoT helping in automating tasks, the benefits of IoT can also be extended for enhancing
 the existing safety standards. Safety, the elementary concern of any project, has not been left
